@@ -32,7 +32,7 @@ It combines a fast Markdown editor, real-time collaborative canvas, and diagram-
 - **Collaboration**: Yjs + WebSocket / WebRTC  
 - **Backend**: Node.js + Express / tRPC, PostgreSQL + Prisma  
 - **Auth**: NextAuth.js or Clerk  
-- **Hosting**: Vercel (frontend), Railway or Fly.io (backend)  
+- **Hosting**: Vercel (frontend)  
 
 ---
 
