@@ -62,12 +62,6 @@ We welcome contributions and feedback. If you'd like to get involved early, feel
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🌐 Stay Connected
 
 **Website**: _Coming soon_  
